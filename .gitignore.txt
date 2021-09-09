@@ -1,2 +1,2 @@
-C/.vscode/*
-C/*.exe
+**/.vscode
+*.exe
